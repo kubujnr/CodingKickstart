@@ -1,0 +1,44 @@
+{
+    "title": "VUE.JS",
+    "description": "Explore a curated collection of resources for learning Vue.js, a progressive JavaScript framework. Access tutorials, documentation, best practices, courses, and tools to master Vue.js and enhance your web development skills. Level up your proficiency in Vue.js with our handpicked selection of educational materials and insightful resources.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/qZXt1Aom3Cs?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/qZXt1Aom3Cs?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "freecodecamp",
+              "channel": "https://www.youtube.com/c/Freecodecamp",
+              "link": "https://www.youtube-nocookie.com/embed/FXpIoQ_rT_c?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/FXpIoQ_rT_c?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "DesignCourse",
+              "channel": "https://www.youtube.com/c/DesignCourse",
+              "link": "https://www.youtube-nocookie.com/embed/78tNYZUS-ps?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/78tNYZUS-ps?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Vue Mastery",
+              "channel": "https://www.youtube.com/c/VueMastery",
+              "link": "https://www.youtube-nocookie.com/embed/bzlFvd0b65c?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/bzlFvd0b65c?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/m-MAIpnH9ag?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/m-MAIpnH9ag?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

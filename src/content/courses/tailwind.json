@@ -1,0 +1,58 @@
+{
+    "title": "TAILWINDCSS",
+    "description": "Discover a comprehensive collection of resources, tutorials, best practices, and tips for mastering Tailwind CSS. Level up your web development skills and create stunning, efficient designs with ease using Tailwind CSS.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/dFgzHOX84xQ?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/dFgzHOX84xQ?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Tailwind Labs",
+              "channel": "https://www.youtube.com/c/TailwindLabs",
+              "link": "https://www.youtube-nocookie.com/embed/qYgogv4R8zg?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/qYgogv4R8zg?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Tailwind Labs",
+              "channel": "https://www.youtube.com/c/TailwindLabs",
+              "link": "https://www.youtube-nocookie.com/embed/WJDw1J7FZnE?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/WJDw1J7FZnE?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Tailwind Labs",
+              "channel": "https://www.youtube.com/c/TailwindLabs",
+              "link": "https://www.youtube-nocookie.com/embed/cZc4Jn5nK3k?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/cZc4Jn5nK3k?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "DesignCourse",
+              "channel": "https://www.youtube.com/c/DesignCourse",
+              "link": "https://www.youtube-nocookie.com/embed/Vp6GC3jKG20?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/Vp6GC3jKG20?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Raddy",
+              "channel": "https://www.youtube.com/c/RaddyDev",
+              "link": "https://www.youtube-nocookie.com/embed/V5HYZOmkPSs?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/V5HYZOmkPSs?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Tailwind Labs",
+              "channel": "https://www.youtube.com/c/TailwindLabs",
+              "link": "https://www.youtube-nocookie.com/embed/eSzNNYk7nVU?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/eSzNNYk7nVU?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

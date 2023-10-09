@@ -1,0 +1,23 @@
+{
+    "title": "JQUERY",
+    "description": "Explore a curated collection of resources for learning and mastering jQuery. Discover tutorials, documentation, plugins, and examples to enhance your web development skills with this powerful JavaScript library.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/3nrLc_JOF7k?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/3nrLc_JOF7k?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "simplilearn",
+              "channel": "https://www.youtube.com/c/SimplilearnOfficial",
+              "link": "https://www.youtube-nocookie.com/embed/QhQ4m5g2fhA?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/QhQ4m5g2fhA?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

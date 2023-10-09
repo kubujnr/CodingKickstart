@@ -1,0 +1,54 @@
+---
+const pathname = new URL(Astro.request.url).pathname;
+
+const menu = [
+  {
+    label: "HOME",
+    href: "/",
+    active: pathname === "/",
+  },
+  {
+    label: "COURSES",
+    href: "/courses",
+    active: pathname === "/courses",
+  },
+  {
+    label: "ABOUT",
+    href: "/#about",
+    active: pathname === "/#about" || pathname === "/#about/",
+  },
+  {
+    label: "CONTACT US",
+    href: "/#contact",
+    active: pathname === "/#contact",
+  },
+];
+---
+
+<nav
+  class="flex flex-col gap-2 md:gap-0 md:items-center text-xs p-4 md:text-sm md:py-8 md:px-16 md:flex-row"
+>
+  <h3 class="md:text-2xl text-xl font-bold text-teal-400">CodingKickstart</h3>
+  <div class="space-x-4 md:ml-24 text-gray-400">
+    {
+      menu.map((item) => (
+        <a
+          href={item.href}
+          class:list={[
+            "font-medium",
+            item.active ? "text-black font-semibold transition-all" : "",
+          ]}
+        >
+          {item.label}
+        </a>
+      ))
+    }
+  </div>
+  <div class="ml-auto hidden lg:block">
+    <a
+      href="/courses"
+      class="px-6 py-2 border border-teal-400 rounded hover:bg-teal-300 transition-colors ease-in-out"
+      >Get Started</a
+    >
+  </div>
+</nav>

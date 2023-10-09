@@ -1,0 +1,37 @@
+{
+    "title": "DJANGO",
+    "description": "Explore a comprehensive collection of Django resources, tutorials, best practices, and tips. Enhance your Django development skills and build powerful web applications with ease. Find tutorials on Django REST framework, ORM, authentication, and more.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+          {
+            "creator": "programming with mosh",
+            "channel": "https://www.youtube.com/c/programmingwithmosh",
+            "link": "https://www.youtube-nocookie.com/embed/rHux0gMZ3Eg?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/rHux0gMZ3Eg?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "Traversy Media",
+            "channel": "https://www.youtube.com/c/TraversyMedia",
+            "link": "https://www.youtube-nocookie.com/embed/BUCiSSyIGGU?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/BUCiSSyIGGU?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "Clever Programmer",
+            "channel": "https://www.youtube.com/c/CleverProgrammer",
+            "link": "https://www.youtube-nocookie.com/embed/JT80XhYJdBw?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/JT80XhYJdBw?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "freecodecamp",
+            "channel": "https://www.youtube.com/c/Freecodecamp",
+            "link": "https://www.youtube-nocookie.com/embed/F5mRW0jo-U4?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/F5mRW0jo-U4?controls=0&disablekb=1&modestbranding=1&rel=0"
+          }
+        ]
+    }
+}

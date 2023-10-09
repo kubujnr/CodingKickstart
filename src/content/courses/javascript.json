@@ -1,0 +1,30 @@
+{
+    "title": "JAVASCRIPT",
+    "description": "Explore a curated collection of JavaScript resources, tutorials, and guides for beginners and experienced developers. Enhance your coding skills with comprehensive materials covering JavaScript fundamentals, frameworks, libraries, and best practices. Start your journey to mastering JavaScript today.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/hdI2bqOjy3c?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/hdI2bqOjy3c?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Programming With Mosh",
+              "channel": "https://www.youtube.com/c/programmingwithmosh",
+              "link": "https://www.youtube-nocookie.com/embed/W6NZfCO5SIk?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/W6NZfCO5SIk?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Clever Programmer",
+              "channel": "https://www.youtube.com/c/CleverProgrammer",
+              "link": "https://www.youtube-nocookie.com/embed/Qqx_wzMmFeA?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/Qqx_wzMmFeA?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

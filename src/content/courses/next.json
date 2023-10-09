@@ -1,0 +1,30 @@
+{
+    "title": "NEXT.JS",
+    "description": "Discover a curated collection of resources, tutorials, best practices, and tips for mastering Next.js—the powerful React framework. Level up your Next.js skills and stay up-to-date with the latest developments to build performant, modern web applications.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/mTz0GXj8NN0?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/mTz0GXj8NN0?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "freecodecamp",
+              "channel": "https://www.youtube.com/c/Freecodecamp",
+              "link": "https://www.youtube-nocookie.com/embed/1WmNXEVia8I?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/1WmNXEVia8I?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Sonny Sangha",
+              "channel": "https://www.youtube.com/c/SonnySangha",
+              "link": "https://www.youtube-nocookie.com/embed/rCselwxbUgA?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/rCselwxbUgA?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

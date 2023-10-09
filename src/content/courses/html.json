@@ -1,0 +1,30 @@
+{
+    "title": "HTML 5",
+    "description": "Explore a comprehensive collection of HTML resources and tutorials. Learn HTML, the fundamental language for creating websites and web applications. Find tutorials, guides, best practices, and tips to master HTML and build stunning web projects.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/UB1O30fR-EE?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/UB1O30fR-EE?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Programming With Mosh",
+              "channel": "https://www.youtube.com/c/programmingwithmosh",
+              "link": "https://www.youtube-nocookie.com/embed/qz0aGYrrlhU?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/qz0aGYrrlhU?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Clever Programmer",
+              "channel": "https://www.youtube.com/c/CleverProgrammer",
+              "link": "https://www.youtube-nocookie.com/embed/FNGoExJlLQY?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/FNGoExJlLQY?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

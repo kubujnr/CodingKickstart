@@ -1,0 +1,30 @@
+{
+    "title": "LARAVEL",
+    "description": "Discover a curated collection of essential resources for mastering Laravel, a popular PHP framework. Access tutorials, documentation, best practices, tools, and more to enhance your Laravel development skills and build powerful web applications. Stay up-to-date with the latest Laravel updates and advancements.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+          {
+            "creator": "Traversy Media",
+            "channel": "https://www.youtube.com/c/TraversyMedia",
+            "link": "https://www.youtube-nocookie.com/embed/MYyJ4PuL4pY?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/MYyJ4PuL4pY?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "Traversy Media",
+            "channel": "https://www.youtube.com/c/TraversyMedia",
+            "link": "https://www.youtube-nocookie.com/embed/MFh0Fd7BsjE?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/MFh0Fd7BsjE?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "freecodecamp",
+            "channel": "https://www.youtube.com/c/Freecodecamp",
+            "link": "https://www.youtube-nocookie.com/embed/ImtZ5yENzgE?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/ImtZ5yENzgE?controls=0&disablekb=1&modestbranding=1&rel=0"
+          }
+        ]
+    }
+}

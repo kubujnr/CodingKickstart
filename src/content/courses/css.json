@@ -1,0 +1,44 @@
+{
+    "title": "CSS 3",
+    "description": "Explore a comprehensive collection of CSS resources including tutorials, guides, frameworks, best practices, and tools to enhance your web design skills. Elevate your CSS expertise and stay updated with the latest trends and techniques in web development.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/yfoY53QXEnI?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/yfoY53QXEnI?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "freecodecamp",
+              "channel": "https://www.youtube.com/c/Freecodecamp",
+              "link": "https://www.youtube-nocookie.com/embed/1Rs2ND1ryYc?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/1Rs2ND1ryYc?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/3YW65K6LcIA?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/3YW65K6LcIA?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Kevin Powbell",
+              "channel": "https://www.youtube.com/kepowob",
+              "link": "https://www.youtube-nocookie.com/embed/u044iM9xsWU?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/u044iM9xsWU?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/0xMQfnTU6oo?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/0xMQfnTU6oo?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "REACT.JS",
+    "description": "Discover a wealth of resources to master React.js - a powerful JavaScript library for building dynamic and efficient user interfaces. Explore tutorials, courses, best practices, and essential tools to enhance your React development skills and stay updated with the latest trends in the React ecosystem.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/w7ejDZ8SWv8?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/w7ejDZ8SWv8?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "programming with mosh",
+              "channel": "https://www.youtube.com/c/programmingwithmosh",
+              "link": "https://www.youtube-nocookie.com/embed/Ke90Tje7VS0?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/Ke90Tje7VS0?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Dev Ed",
+              "channel": "https://www.youtube.com/c/DevEd",
+              "link": "https://www.youtube-nocookie.com/embed/xc4uOzlndAk?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/xc4uOzlndAk?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "title": "Web Intermediate",
+    "description": "The foundation of every website or webpage on the internet.",
+    "courses": ["bootstrap", "tailwind", "jquery", "react", "vue", "angular"],
+    "color": "purple",
+    "pubDate": "2023-10-09"
+}

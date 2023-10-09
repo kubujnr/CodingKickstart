@@ -1,0 +1,37 @@
+{
+    "title": "BOOTSTRAP CSS",
+    "description": "Explore a curated collection of Bootstrap resources, including tutorials, templates, themes, and tools. Enhance your web development skills and create modern, responsive websites with ease using Bootstrap. Get started now!",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+            {
+              "creator": "freecodecamp.org",
+              "channel": "https://www.youtube.com/c/Freecodecamp",
+              "link": "https://www.youtube-nocookie.com/embed/-qfEOE4vtxE?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/-qfEOE4vtxE?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Raddy",
+              "channel": "https://www.youtube.com/c/RaddyDev",
+              "link": "https://www.youtube-nocookie.com/embed/eow125xV5-c?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/eow125xV5-c?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "Traversy Media",
+              "channel": "https://www.youtube.com/c/TraversyMedia",
+              "link": "https://www.youtube-nocookie.com/embed/4sosXZsdy-s?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/4sosXZsdy-s?controls=0&disablekb=1&modestbranding=1&rel=0"
+            },
+            {
+              "creator": "DesignCourse",
+              "channel": "https://www.youtube.com/c/DesignCourse",
+              "link": "https://www.youtube-nocookie.com/embed/1nxSE0R27Gg?disablekb=1&modestbranding=1&rel=0",
+              "miniLink":
+                "https://www.youtube-nocookie.com/embed/1nxSE0R27Gg?controls=0&disablekb=1&modestbranding=1&rel=0"
+            }
+          ]
+    }
+}

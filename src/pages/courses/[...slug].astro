@@ -1,0 +1,29 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import OpenGrounds from "../../components/OpenGrounds.svelte";
+
+import { getCollection, type CollectionEntry } from "astro:content";
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const course = await getCollection("courses");
+  return course.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+interface Props {
+  entry: CollectionEntry<"courses">;
+}
+// 2. For your template, you can get the entry directly from the prop
+const { entry } = Astro.props;
+---
+
+<Layout
+  title={`CodingKickstart | ${entry.data.title.toLocaleLowerCase()}`}
+  description={entry.data.description}
+>
+  <main class="space-y-8">
+    <h2 class="text-center font-semibold text-2xl my-8">{entry.data.title}</h2>
+    <OpenGrounds client:only videos={entry.data.resources.videos} />
+  </main>
+</Layout>

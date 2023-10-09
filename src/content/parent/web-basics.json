@@ -1,0 +1,7 @@
+{
+    "title": "Web Basics",
+    "description": "The foundation of every website or webpage on the internet.",
+    "courses": ["html", "css", "javascript"],
+    "color": "green",
+    "pubDate": "2023-10-09"
+}

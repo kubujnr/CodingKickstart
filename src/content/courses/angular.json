@@ -1,0 +1,44 @@
+{
+    "title": "ANGULAR",
+    "description": "Discover a curated collection of valuable resources and tutorials for learning Angular, a powerful web application framework. Explore guides, tutorials, and best practices to enhance your skills in building dynamic and efficient web applications with Angular. Start your journey into the world of Angular development today.",
+    "pubDate": "2023-10-09",
+    "resources": {
+        "videos": [
+          {
+            "creator": "Traversy Media",
+            "channel": "https://www.youtube.com/c/TraversyMedia",
+            "link": "https://www.youtube-nocookie.com/embed/3dHNOWTI7H8?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/3dHNOWTI7H8?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "freecodecamp",
+            "channel": "https://www.youtube.com/c/Freecodecamp",
+            "link": "https://www.youtube-nocookie.com/embed/QhQ4m5g2fhA?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/QhQ4m5g2fhA?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "DesignCourse",
+            "channel": "https://www.youtube.com/c/DesignCourse",
+            "link": "https://www.youtube-nocookie.com/embed/5wtnKulcquA?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/5wtnKulcquA?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "Google Chrome Developers",
+            "channel": "https://www.youtube.com/c/GoogleChromeDevelopers",
+            "link": "https://www.youtube-nocookie.com/embed/qxchrt04bTA?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/qxchrt04bTA?controls=0&disablekb=1&modestbranding=1&rel=0"
+          },
+          {
+            "creator": "programming with mosh",
+            "channel": "https://www.youtube.com/c/programmingwithmosh",
+            "link": "https://www.youtube-nocookie.com/embed/k5E2AVpwsko?disablekb=1&modestbranding=1&rel=0",
+            "miniLink":
+              "https://www.youtube-nocookie.com/embed/k5E2AVpwsko?controls=0&disablekb=1&modestbranding=1&rel=0"
+          }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "title": "Web Advance",
+    "description": "The foundation of every website or webpage on the internet.",
+    "courses": ["django", "next", "laravel"],
+    "color": "yellow",
+    "pubDate": "2023-10-09"
+}

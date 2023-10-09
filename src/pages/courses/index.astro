@@ -1,0 +1,35 @@
+---
+import Card from "../../components/Card.astro";
+import Layout from "../../layouts/Layout.astro";
+import { getCollection, getEntry } from "astro:content";
+
+const allParentPosts = await getCollection("parent");
+---
+
+<Layout
+  title="CodingKickstart"
+  description="Unlock the world of web development with CodingKickstart. Access high-quality tutorials, courses, and resources for beginners, covering HTML, CSS, JavaScript, and more. Start your journey to becoming a proficient web developer today."
+>
+  <main class="md:w-4/5 md:mx-auto px-4">
+    <header class="bg-sky-500 rounded py-16 flex justify-center items-center">
+      <h3 class="md:text-2xl text-xl font-semibold">courses</h3>
+    </header>
+    <section>
+      {
+        allParentPosts.map((parent) => (
+          <>
+            <h3 class="border-b md:text-xl md:px-8 px-4 py-2 mt-16">
+              {parent.data.title}
+            </h3>
+            <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 justify-center place-items-center gap-8 items-center py-8">
+              {parent.data.courses.map(async (course: any) => {
+                const item = await getEntry("courses", course.id);
+                return <Card course={item} color={parent.data.color} />;
+              })}
+            </div>
+          </>
+        ))
+      }
+    </section>
+  </main>
+</Layout>
