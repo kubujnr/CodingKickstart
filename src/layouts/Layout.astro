@@ -18,21 +18,28 @@ const { title, description } = Astro.props;
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
-<meta name="google-site-verification" content="pzJiRqWbt1Avzqq9d7L0cCOWhJPrpnqKjxpe72K66U0" />
+    <meta
+      name="google-site-verification"
+      content="pzJiRqWbt1Avzqq9d7L0cCOWhJPrpnqKjxpe72K66U0"
+    />
+    <link rel="sitemap" href="/sitemap-index.xml" />
     <link
       href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.css"
       rel="stylesheet"
     />
     <title>{title}</title>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XVTJXQJSYN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XVTJXQJSYN"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-  gtag('config', 'G-XVTJXQJSYN');
-</script>
+      gtag("config", "G-XVTJXQJSYN");
+    </script>
   </head>
   <body>
     <Navbar />
